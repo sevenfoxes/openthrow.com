@@ -31,7 +31,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Other Yo-yos and Mods',
-					autogenerate: { directory: 'models'}
+					autogenerate: { directory: 'other'}
 				}
 			],
 		}),
